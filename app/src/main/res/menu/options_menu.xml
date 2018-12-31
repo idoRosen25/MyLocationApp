@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/type_km"
+        android:title="Set Distance KM" />
+
+    <item
+        android:id="@+id/type_miles"
+        android:title="Set Distance Miles" />
+
+    <item
+        android:id="@+id/delete_fav"
+        android:title="Delete Favorites" />
+
+</menu>
